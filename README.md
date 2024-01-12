@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Science/Data Engineerning/ Data Analyst/Business Intelligence
 
-I’m currently pursuing Masters in Information Systems
+    I’m currently pursuing Masters in Information Systems from Binghamton University
 
 🌱 I’m currently learning Python, Django, Cloud Computing, PowerBI, SQL, DataWarehouse
 
