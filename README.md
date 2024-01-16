@@ -10,7 +10,7 @@
 
 🤝 I can help you in your journey as a developer
 
-💬 Ask me about TeraData, ETL, DataStage, Python, Tableau, PowerBI, SQL, Google Cloud Platform, Azure
+💬 Ask me about Teradata, ETL, DataStage, Python, Tableau, PowerBI, SQL, Google Cloud Platform, Azure
 
 📄 Reach out to me on Linkedin https://www.linkedin.com/in/chaitanya-maldikar/
 
