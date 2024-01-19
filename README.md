@@ -18,4 +18,4 @@
 
 🌱 I have more than three years of experience in Data Engineering and looking forward to work in Data Analytics field/Data Engineer
 
-📫 How to reach me cmaldikar@binghamton.edu
+📫 How to reach me cmaldikar@gmail.com
