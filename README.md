@@ -1,21 +1,36 @@
-👋 Hi, I’m Chaitanya Maldikar
+# Chaitanya Maldikar
 
-👀 I’m interested in Data Science/Data Engineerning/ Data Analyst/Business Intelligence
+🎓 Pursuing Masters in Information Systems at Binghamton University
 
-🎓 I’m currently pursuing Masters in Information Systems from Binghamton University
+🌱 Currently learning: Python, Django, Cloud Computing, PowerBI, SQL, DataWarehouse
 
-🌱 I’m currently learning Python, Django, Cloud Computing, PowerBI, SQL, DataWarehouse
+💼 Data Engineer with over three years of experience
 
-👯 I’m looking to collaborate on development projects
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitanya-maldikar/) | 📧 cmaldikar@gmail.com
 
-🤝 I can help you in your journey as a developer
+## Skills
 
-💬 Ask me about Teradata, ETL, DataStage, Python, Tableau, PowerBI, SQL, Google Cloud Platform, Azure
+- Teradata
+- ETL
+- DataStage
+- Python
+- Tableau
+- PowerBI
+- SQL
+- Google Cloud Platform
+- Azure
 
-📄 Reach out to me on Linkedin https://www.linkedin.com/in/chaitanya-maldikar/
+## Projects
 
-⚡ Fun fact I love Football❤️
+- [Project 1: Brief description with link]
+- [Project 2: Brief description with link]
+- [Project 3: Brief description with link]
 
-🌱 I have more than three years of experience in Data Engineering and looking forward to work in Data Analytics field/Data Engineer
+## Collaboration
 
-📫 How to reach me cmaldikar@gmail.com
+👯 Open to collaboration on development projects. Let's build something amazing together!
+
+## Fun Fact
+
+⚽ I love Football! ❤️
+
