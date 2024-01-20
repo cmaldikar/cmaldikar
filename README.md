@@ -1,36 +1,59 @@
-# Chaitanya Maldikar
+# Chaitanya Maldikar - Data Engineer and Information Systems Graduate
 
-🎓 Pursuing Masters in Information Systems at Binghamton University
+Welcome to my professional profile! I am Chaitanya Maldikar, a dedicated Data Engineer with over three years of experience in the Information Technology sector. Currently pursuing a Masters in Information Systems at Binghamton University, I have a strong foundation in Data Modeling, Data Manipulation, ETL development, and deriving actionable insights from analyzed data.
 
-🌱 Currently learning: Python, Django, Cloud Computing, PowerBI, SQL, DataWarehouse
-
-💼 Data Engineer with over three years of experience
-
-🔗 [LinkedIn](https://www.linkedin.com/in/chaitanya-maldikar/) | 📧 cmaldikar@gmail.com
+## Education
+- 🎓 Pursuing Masters in Information Systems at Binghamton University
+- Concentration: Business Analytics, Data Processing, Predictive Modeling, Data Warehousing Concepts
 
 ## Skills
+- **Data Analytics:** Leveraging data to uncover meaningful insights
+- **Business Analytics:** Transforming business process requirements into functional specifications
+- **Data Modeling:** Designing effective data models
+- **ETL:** Expertise in Extract, Transform, Load processes
+- **Business Process Mapping:** Translating business processes into visual representations
+- **Functional Requirements & Specifications:** Converting requirements into development maps
+- **Predictive Modeling:** Applying statistical models for predictions
+- **Data Warehousing Concepts:** Understanding and implementing data warehousing principles
+- **SCRUM Methodology:** Agile project management
+- **Excel Modeling:** Proficient in modeling with Microsoft Excel
+- **Azure Data Engineering:** Hands-on experience with Azure platform
 
-- Teradata
-- ETL
-- DataStage
+## Languages
+- SQL
 - Python
+- Unix
+
+## Tools
 - Tableau
+- Power BI
+- Microsoft Excel
+- JIRA
+- Git
+- Microsoft PowerPoint
+- DataStage
+- Informatica
+
+## Databases
+- Teradata SQL Server
+- Oracle
+- MySQL Workbench
+- Microsoft SQL Server
+- PostgreSQL
+
+## Additional Technical Proficiencies
+- Windows and Linux Environments
+
+## Currently Learning
+- Python
+- Django
+- Cloud Computing
 - PowerBI
 - SQL
-- Google Cloud Platform
-- Azure
+- DataWarehouse
 
-## Projects
+## Contact Information
+- **Email:** cmaldikar@gmail.com
+- **LinkedIn:** [Chaitanya Maldikar](LinkedIn Profile Link)
 
-- [Project 1: Brief description with link]
-- [Project 2: Brief description with link]
-- [Project 3: Brief description with link]
-
-## Collaboration
-
-👯 Open to collaboration on development projects. Let's build something amazing together!
-
-## Fun Fact
-
-⚽ I love Football! ❤️
-
+Feel free to reach out for any opportunities or collaborations. Let's connect and explore the world of data together! 🚀
