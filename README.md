@@ -54,6 +54,6 @@ Welcome to my professional profile! I am Chaitanya Maldikar, a dedicated Data En
 
 ## Contact Information
 - **Email:** cmaldikar@gmail.com
-- **LinkedIn:** [Chaitanya Maldikar](LinkedIn Profile Link)
+- **LinkedIn:** [Chaitanya Maldikar](https://www.linkedin.com/in/chaitanya-maldikar/)
 
 Feel free to reach out for any opportunities or collaborations. Let's connect and explore the world of data together! 🚀
