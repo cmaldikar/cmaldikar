@@ -1,4 +1,4 @@
-# Chaitanya Maldikar - Data Engineer 
+# Chaitanya Maldikar - Data Analyst | Data Engineer | BI Developer
 
 Welcome to my professional profile! I am Chaitanya Maldikar, a dedicated Data Engineer with over three years of experience in the Information Technology sector. Currently pursuing a Masters in Information Systems at Binghamton University, I have a strong foundation in Data Modeling, Data Manipulation, ETL development, and deriving actionable insights from analyzed data.
 
